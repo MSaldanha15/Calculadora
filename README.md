@@ -4,6 +4,8 @@
 Tabela de conteúdos
 =================
 <p align="center">
+<a href="#Sobre o projeto">Sobre o projeto</a>• 
+<a href="#Regras de Negócio">Regras de Negócio</a>• 
  <a href="#Pré-requisitos">Pré-requisitos</a> • 
  <a href="#Rodando o Front End">Rodando o Front End</a> • 
  <a href="#Rodando os testes">Rodando os testes</a> • 
@@ -15,9 +17,15 @@ Tabela de conteúdos
 	🚧  Status do Projeto: Concluido  🚧
 </h4>
 
-Sobre o projeto
-=================
+# Sobre o projeto
+
  Projeto Final Calculadora - é um Projeto desenvolvido durante o Programa de Estágio da IBlue Consulting com o objetivo de criar uma calculadora pensada para alunos do Ensino Fundamental I e II, auxiliando no aprendizado. 
+
+# Regras de Negócio
+ 
+ A calculadora aceitará caracteres numerais, de 0 a 9, e sinais aritimeticos: +, -, *, ÷, ., % e √;
+ 
+
 
 
 ### Operações matematicas feitas
@@ -29,13 +37,13 @@ Sobre o projeto
 - [x] Porcentagem
 - [x] Raiz Quadrada
 
-### Pré-requisitos
+# Pré-requisitos
 
 Antes de começar, você vai precisar ter instalado em sua máquina a seguinte ferramenta:
 [Node.js](https://nodejs.org/en/). 
 Além disto o editor de codigo usado nesse projeto foi: [VSCode](https://code.visualstudio.com/)
 
-### Rodando o Front End 
+# Rodando o Front End 
 
 ```bash
 # Vá para a pasta 
@@ -50,7 +58,7 @@ $ npm run serve
 # O servidor inciará na porta:8080 - acesse <http://localhost:8080/> 
 ```
 
-### Rodando os testes
+# Rodando os testes
 
 ```bash
 # Vá para a pasta 
@@ -62,7 +70,7 @@ $ npm install
 # Execute a aplicação 
 $ npm run test
 ```
-### Tecnologias
+# Tecnologias
 
 As seguintes ferramentas foram usadas na construção do projeto:
 
@@ -71,7 +79,7 @@ As seguintes ferramentas foram usadas na construção do projeto:
 - [mocha](https://mochajs.org)
 - [chai](https://www.chaijs.com)
 
-### Autor
+# Autor
 ---
 Matheus Saldanha Coelho
 
